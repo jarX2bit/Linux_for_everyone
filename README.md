@@ -1,10 +1,9 @@
-<article class="blog-post">
-        <h2 class="blog-post-title mb-1">26 Perintah Dasar Linux</h2>
+<h2 class="blog-post-title mb-1">26 Perintah Dasar Linux</h2>
         <p class="blog-post-meta">Desember 23, 2022 by <a href="#">fajar</a>
         </p>
         <img src="/img/hero-bg.jpg" class="img-fluid p-10" alt="hacker">
-        <p class="pt-3">Jika kita menegenal kata linux pasti masih asing di kalangan pengguna windows. kebanyakan linux hanya untuk orang yang paham tentang koding atau sebagainya, padahal menggunakan linux tidak jauh berbeda degan menggunakan windows, user hanya perlu lebih paham sedikit mengenai konfigurasi dalam menginstall progam maupun paket dalam sebuah software. </p>
-        <p> Linux adalah sistem operasi mirip Unix bebas dan sumber terbuka yang didasarkan pada kernel Linux, yakni sebuah kernel yang dimana sistem operasi yang pertama kali dikembangkan oleh Linus Torvalds pada 1991. Linux dirilis di bawah Lisensi Publik Umum GNU versi 2. Linux aslinya dikembangkan untuk komputer pribadi berarsitektur Intel x86, tetapi karena seiring waktu Linux telah diportasi ke berbagai arsitektur, lebih banyak daripada sistem operasi lainnya. </p>
+        <p class="pt-3">Jika kita menegenal kata linux pasti masih asing di kalangan pengguna windows. kebanyakan linux hanya untuk orang yang paham tentang koding atau sebagainya, padahal menggunakan linux tidak jauh berbeda degan menggunakan windows, user hanya perlu lebih paham sedikit mengenai konfigurasi dalam menginstall progam maupun paket dalam sebuah software. </P>
+        <P> Linux adalah sistem operasi mirip Unix bebas dan sumber terbuka yang didasarkan pada kernel Linux, yakni sebuah kernel yang dimana sistem operasi yang pertama kali dikembangkan oleh Linus Torvalds pada 1991. Linux dirilis di bawah Lisensi Publik Umum GNU versi 2. Linux aslinya dikembangkan untuk komputer pribadi berarsitektur Intel x86, tetapi karena seiring waktu Linux telah diportasi ke berbagai arsitektur, lebih banyak daripada sistem operasi lainnya. </p>
         <p>Berikut ini adalah 26 perintah dasar mengenai linux agar kamu kamu bisa mengenal sang Do'i eh maksudnya sang linux. </p>
         
         <h3>cd (change directory)</h3>
@@ -124,6 +123,4 @@
           <li>Second list item with a longer description</li>
           <li>Third list item to close it out</li>
         </ul>
-        <p>This is some additional paragraph placeholder content. It's a slightly shorter version of the other highly repetitive body text used throughout.</p>
-        <h5>See you on the next article 💗</h5>
-      </article>
+        <p>This is some additional paragraph placeholder 
