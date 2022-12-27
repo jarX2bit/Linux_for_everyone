@@ -126,8 +126,6 @@
 <h3>wget</h3>
 <p>Perintah dasar Linux ini sangat berguna - kamu bahkan dapat menggunakan perintah wget untuk mengunduh file dari Internet. Yang harus kamu lakukan adalah mengetik wget diikuti dengan tautan unduhan.</p>
 
-![wget shell](https://user-images.githubusercontent.com/86142230/209637400-efbc2a24-8aeb-40ad-8e3a-659038b3bfb9.png)
-
 <h3>uname</h3>
 <p>uname, kependekan dari Unix-like name, adalah perintah dasar sistem operasi Linux yang mencetak informasi lengkap tentang sistem Linux, mis. B. Nama komputer, sistem operasi, kernel, dll.</p>
 
