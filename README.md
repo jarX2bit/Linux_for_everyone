@@ -1,6 +1,5 @@
+
 <h1 class="blog-post-title mb-1">27 Perintah Dasar Linux</h1>
-
-
 
 <h3>cd (change directory)</h3>
 <p>Cd atau change directory digunakan untuk berpindah dari folder satu ke folder lain dalam terminal atau shell di linux.</p>
